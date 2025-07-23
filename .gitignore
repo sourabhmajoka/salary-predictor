@@ -12,9 +12,6 @@ __pycache__/
 # Data files
 *.csv
 
-# Model and encoder files (optional if you want to keep them private)
-*.pkl
-
 # Environment folders
 env/
 venv/
